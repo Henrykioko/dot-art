@@ -18,7 +18,7 @@ git clone https://github.com/Henrykioko/dot-art
 
 ---
 
-## ▶ Run the Script
+##  Run the Script
 
 ```bash
 cd dot-art
@@ -28,7 +28,7 @@ chmod +x dot-art.sh
 
 ---
 
-## 💡 Contributions
+##  Contributions
 
 Feel free to open a pull request with new dot art characters or enhancements.
 
